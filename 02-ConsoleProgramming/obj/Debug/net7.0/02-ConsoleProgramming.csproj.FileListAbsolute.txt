@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/bin/Debug/net7.0/02-ConsoleProgramming
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/bin/Debug/net7.0/02-ConsoleProgramming.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/bin/Debug/net7.0/02-ConsoleProgramming.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/bin/Debug/net7.0/02-ConsoleProgramming.dll
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/bin/Debug/net7.0/02-ConsoleProgramming.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.dll
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/refint/02-ConsoleProgramming.dll
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/02-ConsoleProgramming.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/02-ConsoleProgramming/obj/Debug/net7.0/ref/02-ConsoleProgramming.dll
