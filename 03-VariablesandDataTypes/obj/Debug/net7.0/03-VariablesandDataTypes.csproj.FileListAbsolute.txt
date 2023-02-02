@@ -1,0 +1,5 @@
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.csproj.CoreCompileInputs.cache
