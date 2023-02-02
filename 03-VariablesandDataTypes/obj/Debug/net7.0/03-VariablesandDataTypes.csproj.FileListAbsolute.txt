@@ -3,3 +3,13 @@
 /Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.AssemblyInfoInputs.cache
 /Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.AssemblyInfo.cs
 /Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/bin/Debug/net7.0/03-VariablesandDataTypes
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/bin/Debug/net7.0/03-VariablesandDataTypes.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/bin/Debug/net7.0/03-VariablesandDataTypes.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/bin/Debug/net7.0/03-VariablesandDataTypes.dll
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/bin/Debug/net7.0/03-VariablesandDataTypes.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.dll
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/refint/03-VariablesandDataTypes.dll
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/03-VariablesandDataTypes.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/03-VariablesandDataTypes/obj/Debug/net7.0/ref/03-VariablesandDataTypes.dll
