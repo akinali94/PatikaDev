@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/bin/Debug/net7.0/05-TypeConversions
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/bin/Debug/net7.0/05-TypeConversions.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/bin/Debug/net7.0/05-TypeConversions.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/bin/Debug/net7.0/05-TypeConversions.dll
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/bin/Debug/net7.0/05-TypeConversions.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.dll
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/refint/05-TypeConversions.dll
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/05-TypeConversions.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/05-TypeConversions/obj/Debug/net7.0/ref/05-TypeConversions.dll
