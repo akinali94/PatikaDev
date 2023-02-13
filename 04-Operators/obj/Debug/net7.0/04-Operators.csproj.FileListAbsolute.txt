@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/bin/Debug/net7.0/04-Operators
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/bin/Debug/net7.0/04-Operators.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/bin/Debug/net7.0/04-Operators.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/bin/Debug/net7.0/04-Operators.dll
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/bin/Debug/net7.0/04-Operators.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.dll
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/refint/04-Operators.dll
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/04-Operators.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/04-Operators/obj/Debug/net7.0/ref/04-Operators.dll
