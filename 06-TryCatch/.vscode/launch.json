@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/bin/Debug/net7.0/06-TryCatch.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
