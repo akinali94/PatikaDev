@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/bin/Debug/net7.0/09-ForLoop
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/bin/Debug/net7.0/09-ForLoop.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/bin/Debug/net7.0/09-ForLoop.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/bin/Debug/net7.0/09-ForLoop.dll
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/bin/Debug/net7.0/09-ForLoop.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.dll
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/refint/09-ForLoop.dll
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/09-ForLoop.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/09-ForLoop/obj/Debug/net7.0/ref/09-ForLoop.dll
