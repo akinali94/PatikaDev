@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/bin/Debug/net7.0/10-WhileForeach
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/bin/Debug/net7.0/10-WhileForeach.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/bin/Debug/net7.0/10-WhileForeach.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/bin/Debug/net7.0/10-WhileForeach.dll
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/bin/Debug/net7.0/10-WhileForeach.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.dll
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/refint/10-WhileForeach.dll
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/10-WhileForeach.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/10-WhileForeach/obj/Debug/net7.0/ref/10-WhileForeach.dll
