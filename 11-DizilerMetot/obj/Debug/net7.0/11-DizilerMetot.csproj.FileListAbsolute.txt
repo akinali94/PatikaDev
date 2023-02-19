@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/bin/Debug/net7.0/11-DizilerMetot
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/bin/Debug/net7.0/11-DizilerMetot.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/bin/Debug/net7.0/11-DizilerMetot.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/bin/Debug/net7.0/11-DizilerMetot.dll
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/bin/Debug/net7.0/11-DizilerMetot.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.dll
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/refint/11-DizilerMetot.dll
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/11-DizilerMetot.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/11-DizilerMetot/obj/Debug/net7.0/ref/11-DizilerMetot.dll
