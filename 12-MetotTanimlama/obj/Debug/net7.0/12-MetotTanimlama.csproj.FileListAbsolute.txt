@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/bin/Debug/net7.0/12-MetotTanimlama
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/bin/Debug/net7.0/12-MetotTanimlama.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/bin/Debug/net7.0/12-MetotTanimlama.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/bin/Debug/net7.0/12-MetotTanimlama.dll
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/bin/Debug/net7.0/12-MetotTanimlama.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.dll
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/refint/12-MetotTanimlama.dll
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/12-MetotTanimlama.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/12-MetotTanimlama/obj/Debug/net7.0/ref/12-MetotTanimlama.dll
