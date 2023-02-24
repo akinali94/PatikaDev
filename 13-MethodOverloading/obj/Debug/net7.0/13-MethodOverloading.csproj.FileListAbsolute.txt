@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/bin/Debug/net7.0/13-MethodOverloading
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/bin/Debug/net7.0/13-MethodOverloading.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/bin/Debug/net7.0/13-MethodOverloading.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/bin/Debug/net7.0/13-MethodOverloading.dll
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/bin/Debug/net7.0/13-MethodOverloading.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.dll
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/refint/13-MethodOverloading.dll
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/13-MethodOverloading.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/13-MethodOverloading/obj/Debug/net7.0/ref/13-MethodOverloading.dll
