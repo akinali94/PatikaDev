@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/bin/Debug/net7.0/14-RecursionandExtension
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/bin/Debug/net7.0/14-RecursionandExtension.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/bin/Debug/net7.0/14-RecursionandExtension.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/bin/Debug/net7.0/14-RecursionandExtension.dll
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/bin/Debug/net7.0/14-RecursionandExtension.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.dll
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/refint/14-RecursionandExtension.dll
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/14-RecursionandExtension.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/14-RecursionandExtension/obj/Debug/net7.0/ref/14-RecursionandExtension.dll
