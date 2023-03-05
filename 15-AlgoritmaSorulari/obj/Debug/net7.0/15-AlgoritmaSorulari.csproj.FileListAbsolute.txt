@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/bin/Debug/net7.0/15-AlgoritmaSorulari
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/bin/Debug/net7.0/15-AlgoritmaSorulari.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/bin/Debug/net7.0/15-AlgoritmaSorulari.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/bin/Debug/net7.0/15-AlgoritmaSorulari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/bin/Debug/net7.0/15-AlgoritmaSorulari.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/refint/15-AlgoritmaSorulari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/15-AlgoritmaSorulari.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/15-AlgoritmaSorulari/obj/Debug/net7.0/ref/15-AlgoritmaSorulari.dll

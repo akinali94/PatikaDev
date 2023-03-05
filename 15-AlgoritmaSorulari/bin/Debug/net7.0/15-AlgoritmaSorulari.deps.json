@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "15-AlgoritmaSorulari/1.0.0": {
+        "runtime": {
+          "15-AlgoritmaSorulari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15-AlgoritmaSorulari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
