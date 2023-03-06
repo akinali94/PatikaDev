@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/bin/Debug/net7.0/16-StringMetotlari
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/bin/Debug/net7.0/16-StringMetotlari.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/bin/Debug/net7.0/16-StringMetotlari.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/bin/Debug/net7.0/16-StringMetotlari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/bin/Debug/net7.0/16-StringMetotlari.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/refint/16-StringMetotlari.dll
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/16-StringMetotlari.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/16-StringMetotlari/obj/Debug/net7.0/ref/16-StringMetotlari.dll
