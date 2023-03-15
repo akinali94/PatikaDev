@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/bin/Debug/net7.0/18-Collections
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/bin/Debug/net7.0/18-Collections.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/bin/Debug/net7.0/18-Collections.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/bin/Debug/net7.0/18-Collections.dll
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/bin/Debug/net7.0/18-Collections.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.dll
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/refint/18-Collections.dll
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/18-Collections.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/18-Collections/obj/Debug/net7.0/ref/18-Collections.dll
