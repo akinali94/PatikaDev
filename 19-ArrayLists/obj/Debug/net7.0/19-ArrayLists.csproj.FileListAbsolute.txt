@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/bin/Debug/net7.0/19-ArrayLists
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/bin/Debug/net7.0/19-ArrayLists.deps.json
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/bin/Debug/net7.0/19-ArrayLists.runtimeconfig.json
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/bin/Debug/net7.0/19-ArrayLists.dll
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/bin/Debug/net7.0/19-ArrayLists.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.dll
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/refint/19-ArrayLists.dll
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.pdb
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/19-ArrayLists.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/PatikaDev/19-ArrayLists/obj/Debug/net7.0/ref/19-ArrayLists.dll
